@@ -202,7 +202,7 @@ main {
 }
 
 #img_s1_1 {
-    width: 40%;
+    width: 37%;
     float: left;
     margin: 20px 10%;
     border: 5px solid #fff;
@@ -293,7 +293,7 @@ main {
     #section2 img,
     #section2_2 img,
     #img_s1_1 {
-        width: 90%;
+        width: 80%;
         margin: 10px 5%;
     }
 }
